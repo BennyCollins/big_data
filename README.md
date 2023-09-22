@@ -1,2 +1,1 @@
-# big_data
- Big Data coursework
+# Big Data Coursework
